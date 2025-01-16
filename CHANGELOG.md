@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-16)
+
+<section class="features">
+
+### Features
+
+-   [`84a04bb`](https://github.com/stdlib-js/stdlib/commit/84a04bb594e2d47d518198cfb4778472dd046e1c) - add C implementation of `stats/base/dists/degenerate/logpdf` [(#4450)](https://github.com/stdlib-js/stdlib/pull/4450)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#4583](https://github.com/stdlib-js/stdlib/issues/4583)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`84a04bb`](https://github.com/stdlib-js/stdlib/commit/84a04bb594e2d47d518198cfb4778472dd046e1c) - **feat:** add C implementation of `stats/base/dists/degenerate/logpdf` [(#4450)](https://github.com/stdlib-js/stdlib/pull/4450) _(by Vinit Pandit, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Vinit Pandit
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.1">
 
 ## 0.2.1 (2024-07-27)
