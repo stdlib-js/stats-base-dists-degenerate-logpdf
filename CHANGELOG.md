@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-17)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
+-   [`1fc3918`](https://github.com/stdlib-js/stdlib/commit/1fc3918810a556d2593f4ec8a0764dce88a519fc) - **bench:** refactor random number generation in `stats/base/dists/degenerate` [(#4862)](https://github.com/stdlib-js/stdlib/pull/4862) _(by Karan Anand)_
 -   [`a0d5981`](https://github.com/stdlib-js/stdlib/commit/a0d59812ee0aa7f18f7b7b4c2d93d45c80394bf4) - **style:** add missing space _(by Athan Reines)_
 -   [`84a04bb`](https://github.com/stdlib-js/stdlib/commit/84a04bb594e2d47d518198cfb4778472dd046e1c) - **feat:** add C implementation of `stats/base/dists/degenerate/logpdf` [(#4450)](https://github.com/stdlib-js/stdlib/pull/4450) _(by Vinit Pandit, stdlib-bot)_
 
@@ -47,9 +49,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
+-   Philipp Burckhardt
 -   Vinit Pandit
 
 </section>
